@@ -1,1 +1,2 @@
 - https://shums89.github.io/rsschool-cv/cv
+- https://shums89.github.io/rsschool-cv/
